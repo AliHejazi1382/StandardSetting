@@ -11,6 +11,6 @@ A settings screen contains a Preference hierarchy and you can [make that with xm
 
 Now, i have provide you a source code which can help you to make your own settings screen!!!
 ## Contact me
-[LinkedIn](https://www.linkedin.com/in/ali-hejazi-3b36781a3/)
+* [LinkedIn](https://www.linkedin.com/in/ali-hejazi-3b36781a3/)
 
-[YouTube](https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber)
+* [YouTube](https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber)

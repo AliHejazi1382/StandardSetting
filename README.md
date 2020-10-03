@@ -10,7 +10,7 @@ To import this library, first write this line in `build.gradle`:
 A settings screen contains a Preference hierarchy and you can [make that with xml file](https://developer.android.com/guide/topics/ui/settings) or [make that with code.](https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy)
 
 Now, i have provide you a source code which can help you to make your own settings screen!!!
-### Contact me
+## Contact me
 [LinkedIn](https://www.linkedin.com/in/ali-hejazi-3b36781a3/)
 
 [YouTube](https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber)
